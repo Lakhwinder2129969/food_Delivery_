@@ -1,0 +1,25 @@
+{
+  "name": "rr",
+  "version": "1.0.0",
+  "description": "this is rr special",
+  "keywords": [
+    "react",
+    "lakhwinder",
+    "singh"
+  ],
+  "license": "ISC",
+  "author": "LAKHWINDER SINGH",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.30.0"
+  }
+}
