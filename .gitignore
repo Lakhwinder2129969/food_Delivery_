@@ -1,0 +1,6 @@
+@"
+node_modules/
+.parcel-cache/
+dist/
+.cache/
+"@ | Out-File -FilePath ".gitignore" -Encoding UTF8
